@@ -1,0 +1,11 @@
+{
+  "noData": "No data found",
+  "addToDo": "Add Todo",
+  "toDoList": "Todos List",
+  "add": "Add",
+  "language": "العربية",
+  "enterDesc": "Please enter description",
+  "enDes": "English Description",
+  "arDes": "Arabic Description",
+  "addSuccess":"Todo has been added successfully"
+}
